@@ -1,0 +1,38 @@
+body{
+    width: 67%;
+}
+.font-1{
+    font-family:Serif; 
+    font-size:50px; 
+    color:#2686C0;
+    text-shadow: 3px 2px 3px grey;
+    margin: 0 auto;
+}
+.font-2{
+    font-family:Lucida Sans Unicode	;  
+    color:#2686C0;
+    font-size: 15px;
+}
+.font-3{
+    font-family:Lucida Sans Unicode black;  
+    font-weight:normal;
+    color:#42312b;
+    font-size: 13px;
+    
+}
+.font-4{
+    /* font-family:Lucida Sans Unicode	;   */
+    color:#2686C0;
+    font-size: 20px;
+}
+.font-z{
+    color:#2686C0;
+    font-family:Lucida Sans Unicode;
+}
+.font-5{
+    font-family:Arial;
+}
+.font-6{
+    font-style:oblique;
+    float: right;
+}

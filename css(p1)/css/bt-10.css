@@ -1,0 +1,32 @@
+body{
+    width: 40%;
+    margin: 0 auto;
+}
+
+.container{
+
+}
+.content{
+    text-align: center;
+}
+.list-menu ul{
+    border-top: 3px solid black;
+    border-bottom: 1px solid black
+}
+.list-menu  li{
+    display: inline-flex;
+    text-decoration: none;
+    margin: 16px 10px 16px 21px;
+}
+.list-img{
+    width: 100%;
+    text-align: center;
+}
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+.font-google{
+    font-family: 'Quicksand', sans-serif;
+}
+.font{
+    font-size:30px;
+    font-family: 'Cairo', sans-serif;
+}
