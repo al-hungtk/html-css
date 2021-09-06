@@ -1,0 +1,36 @@
+
+body {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+input {
+  width: 330px;
+  padding: 10px;
+  margin:4px;
+  box-sizing: border-box;
+  padding-left:60px;
+  border:1px solid black;
+  border-radius: 5px ;
+}
+
+.Icon-inside {
+  position:relative;
+}
+
+img {
+  left:0;
+  width: 7%;
+}
+
+.Icon-outside {
+  position:relative;
+}
+
+ img {
+  position:absolute;
+  margin-left:-6px;
+  top:0px;
+  padding:10px 25px;
+  color:#30A3F1;
+}
