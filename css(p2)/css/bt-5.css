@@ -1,0 +1,62 @@
+body{
+    width: 50%;
+    height: 1000px;
+    margin: 0 auto;
+}
+table{
+    border-radius: 1em;
+    overflow: hidden;
+}
+li{
+    list-style-image: url(../image/check.png);
+}
+thead th{
+    padding: 10px;
+    background: #8BB6DA;
+    border-bottom: 3px solid #0066CC	;
+}
+tbody td{
+    background:#DDEBF5;
+}
+.colum{
+    width: 135px;
+    padding:10px;
+}
+.container {
+    width: 320px;
+    height: 280px;
+    border: solid 1px #cccccc;
+    margin-top: 50px;
+    position: relative;
+}
+h3 {
+    position: absolute;
+    top: -31px;
+    background-color: #fff;
+    margin-left: 10px;
+}
+.content {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+.form-control {
+    margin: 10px 0;
+}
+.form-item {
+    display: inline-block;
+    width: 150px;
+}
+.input-margin {
+    margin:35px 0;
+}
+input[type="text"] {
+    width: 100px;
+    height: 18px;
+}
+select {
+    width: 90px;
+    height: 25px;
+    background-color: #ececec;
+    padding-left: 5px;
+    border-radius: 5px;
+}

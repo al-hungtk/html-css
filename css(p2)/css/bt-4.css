@@ -1,0 +1,41 @@
+body{
+    width: 45%; 
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 10px;
+    border: 2px solid silver;
+    width: 550px;
+    padding: 50px;
+}
+form{
+    width: 100%;
+    margin: 0 auto;
+}
+input{
+    padding: 5px ;
+    width: 490px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+.title{
+    position: absolute;
+    background: silver;
+    top: 13px;
+    padding: 10px;
+    width: 140px;
+    border-radius: 5px;
+    border: 1px solid;
+    text-align: center;
+}
+button{
+    float:right;
+    background: #675747;
+    color: white;
+    width: 130px;
+    padding:5px;
+    border-radius: 7px;
+    border: 1px solid;
+}
