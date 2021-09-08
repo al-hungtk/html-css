@@ -1,0 +1,33 @@
+body{
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background: #E4E1DE;
+}
+ol{
+     display:flex;
+}
+li{
+    margin: 15px;
+}
+p{
+    color:violet;
+}
+.decimal{
+   list-style-type: decimal;
+}
+.decimal-leading-zero{
+    list-style-type: decimal-leading-zero;
+}
+.lower-alpha{
+    list-style-type: lower-alpha;
+}
+.upper-alpha{
+    list-style-type: upper-alpha;
+}
+.lower-roman{
+    list-style-type:lower-roman;
+}
+.upper-roman{
+    list-style-type: upper-roman;
+}

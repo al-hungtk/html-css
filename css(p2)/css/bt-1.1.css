@@ -1,0 +1,18 @@
+body{
+    background: #E4E1DE;
+}
+li{
+    color: violet;
+}
+.none{
+    list-style-type: none;
+}
+.dist{
+    list-style-position: inside;
+}
+.circle{
+    list-style-type: circle;
+}
+.square{
+    list-style-type: square;
+}
