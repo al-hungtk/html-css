@@ -1,0 +1,13 @@
+    body{
+        width: 50%;
+        margin: 0 auto;
+        font-family: Arial, Verdana, sans-serif;
+        color: #665545;
+    }
+    .absolute p {
+        width: 400px;
+    }
+    .text{
+        position: relative;
+        left: 100px;
+    }

@@ -1,0 +1,21 @@
+.container{
+    width:45% ;
+    margin: 0 auto ;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665545;
+}
+.content{
+    width: 31%;
+    float: left ;
+    padding: 5px;
+    clear: both ;
+}
+.content-1{
+    width: 31%;
+    float: left ;
+    padding: 5px;
+}
+
+p{
+    background:silver;
+}
