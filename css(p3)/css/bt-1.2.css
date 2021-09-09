@@ -1,0 +1,13 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665545;
+}
+.normal h1{
+    background: whitesmoke;
+}
+.normal p {
+    position: static;
+    width: 400px;
+}

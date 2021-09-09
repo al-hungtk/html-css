@@ -1,0 +1,20 @@
+body{
+    width: 800px;
+    font-family: Arial, Verdana, sans-serif;
+    color: #665545;
+}
+
+h1 {
+    width: 100%;
+    position:fixed;
+    background: whitesmoke;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 10px;
+}
+p{
+    position: relative;
+    top: 100px;
+    left: 50px;
+}

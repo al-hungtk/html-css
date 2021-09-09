@@ -1,0 +1,21 @@
+.demo {
+    margin: 50px 500px auto;
+}
+.yellow, .green, .blue {
+    width: 100px;
+    height: 100px;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+}
+.yellow {
+   background: yellow;
+}
+.green {
+    margin: -35px 50px;
+    background: green;
+}
+.blue {
+    margin: -35px 100px;
+    background: blue;
+}
