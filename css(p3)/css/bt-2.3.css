@@ -1,15 +1,18 @@
-.content{
-    width:55%;
-    margin:0 auto;
+.box-1 {
+float:left;
+width:68%;
 }
-.box-1{
-    width: 68%;
-    float:left;
+
+.box-2 {
+float:right;
+width:25%;
 }
-.box-2{
-    width: 25%;
-    float:right;
+
+.container {
+width:85%;
 }
-.container{ 
-     width: 85%
+
+.content {
+margin:0 auto;
+width:55%;
 }
