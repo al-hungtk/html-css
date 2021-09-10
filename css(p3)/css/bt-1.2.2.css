@@ -1,14 +1,16 @@
-body{
-    width: 800px;
-    margin: 0 auto;
-    font-family: Arial, Verdana, sans-serif;
-    color: #665545;
-}
 .normal p {
-    width: 405px;
+width:405px;
 }
+
+body {
+color:#665545;
+font-family:Arial, Verdana, sans-serif;
+margin:0 auto;
+width:800px;
+}
+
 h1 {
-    position: absolute;
-    right: 30%;
-    width: 225px;
+position:absolute;
+right:30%;
+width:225px;
 }
